@@ -1,2 +1,2 @@
 # hello-world
-Basic ideas, resources, to-dos
+Basic ideas, resources, to-dos.
